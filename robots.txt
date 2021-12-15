@@ -1,0 +1,7 @@
+# www.robotstxt.org/
+
+Sitemap: https://example.com/sitemap_location.xml
+
+# Allow crawling of all content
+User-agent: *
+Disallow:

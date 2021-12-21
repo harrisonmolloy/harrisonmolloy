@@ -66,6 +66,8 @@ main * {
   margin: auto;
 }
 
+/*
+
 @media screen and (orientation: portrait) {
    a, p {
     display: none;
@@ -75,3 +77,5 @@ main * {
     display: block;
   }
 }
+
+*/

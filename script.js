@@ -11,7 +11,7 @@ function next() {
   if ( s == slen ) { s = 1};
   s = s + 1;
   var slide = document.getElementById("slide");
-  var src = "img/HM-Portfolio-" + s + ".png";
+  var src = "img/HM-Portfolio-" + s + ".jpg";
   slide.src = src;
 }
 
@@ -19,6 +19,6 @@ function prev() {
   if ( s == 1 ) { s = slen + 1 };
   s = s - 1
   var slide = document.getElementById("slide");
-  var src = "img/HM-Portfolio-" + s + ".png";
+  var src = "img/HM-Portfolio-" + s + ".jpg";
   slide.src = src;
 }

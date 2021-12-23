@@ -1,5 +1,5 @@
 var s = 1;
-var slen = 92;
+var slen = 90;
 
 document.addEventListener("DOMContentLoaded", function(event) {
   console.log("loaded");
